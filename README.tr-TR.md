@@ -20,7 +20,10 @@ _Read this in other languages:_
 [_Português_](README.pt-BR.md),
 [_Русский_](README.ru-RU.md),
 [_Italiana_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md)
+[_Bahasa Indonesia_](README.id-ID.md),
+[_Українська_](README.uk-UA.md),
+[_Arabic_](README.ar-AR.md),
+[_Deutsch_](README.de-DE.md)
 
 *☝ Not, bu proje araştırma ve öğrenme amacı ile yapılmış
 olup üretim için **yaplılmamıştır**.*
@@ -312,3 +315,5 @@ Altta Big O notations ve farklı input boyutlarına karşın yapılmış perform
 ## Projeyi Destekleme
 
 Bu projeyi buradan destekleyebilirsiniz ❤️️ [GitHub](https://github.com/sponsors/trekhleb) veya ❤️️ [Patreon](https://www.patreon.com/trekhleb).
+
+> ℹ️ A few more [projects](https://trekhleb.dev/projects/) and [articles](https://trekhleb.dev/blog/) about JavaScript and algorithms on [trekhleb.dev](https://trekhleb.dev)

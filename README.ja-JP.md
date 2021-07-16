@@ -21,7 +21,10 @@ _Read this in other languages:_
 [_Русский_](README.ru-RU.md),
 [_Türk_](README.tr-TR.md),
 [_Italiana_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md)
+[_Bahasa Indonesia_](README.id-ID.md),
+[_Українська_](README.uk-UA.md),
+[_Arabic_](README.ar-AR.md),
+[_Deutsch_](README.de-DE.md)
 
 ## データ構造
 
@@ -293,3 +296,5 @@ npm test -- 'playground'
 | **Shell sort**        | n&nbsp;log(n)   | depends on gap sequence   | n&nbsp;(log(n))<sup>2</sup>  | 1         | No         |           |
 | **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Yes       | r - biggest number in array |
 | **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Yes       | k - length of longest key |
+
+> ℹ️ A few more [projects](https://trekhleb.dev/projects/) and [articles](https://trekhleb.dev/blog/) about JavaScript and algorithms on [trekhleb.dev](https://trekhleb.dev)
